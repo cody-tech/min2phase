@@ -20,10 +20,13 @@
 - pruningValue.txt  For checking whether the pruning table is generated correctly.
 
 # HOW TO USE IT
-  - much simpler go to https://github.com/cody-tech/min2phase/tree/master/ui and inside click the main program and run it i recomend jgrasp as ur compiler
-  - this is a gui based interface in case of u need a cmd or print line based interface go to the https://github.com/cody-tech/min2phase/blob/master/demo.java and compile it 
-  - u can change it for ur need https://github.com/cody-tech/min2phase/blob/f9679015e868f934dd05547ef933c11b3f692960/demo.java#L87 
-  - or https://github.com/cody-tech/min2phase/blob/f9679015e868f934dd05547ef933c11b3f692960/demo.java#L89
+  - much simpler go to [https://github.com/cody-tech/min2phase/tree/master/ui](https://github.com/cody-tech/min2phase/tree/master/ui) and inside click the main program and run it i recomend jgrasp as ur compiler
+  
+  - this is a gui based interface in case of u need a cmd or print line based interface go to the [https://github.com/cody-tech/min2phase/blob/master/demo.java](https://github.com/cody-tech/min2phase/blob/master/demo.java) and compile it 
+  
+  - u can change it for ur need [https://github.com/cody-tech/min2phase/blob/f9679015e868f934dd05547ef933c11b3f692960/demo.java#L87](https://github.com/cody-tech/min2phase/blob/f9679015e868f934dd05547ef933c11b3f692960/demo.java#L87) 
+  
+  - or [https://github.com/cody-tech/min2phase/blob/f9679015e868f934dd05547ef933c11b3f692960/demo.java#L89](https://github.com/cody-tech/min2phase/blob/f9679015e868f934dd05547ef933c11b3f692960/demo.java#L89)
 
 # License GPLv3
 
