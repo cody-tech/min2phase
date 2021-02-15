@@ -50,3 +50,4 @@ The target of phase1 can be either &lt;U,R2,F2,D,L2,B2&gt;, &lt;U2,R,F2,D2,L,B2&
 We will try to solve the inverse state simultaneously to find more phase1 solutions. 
 ## Try pre-scramble
 We can also use pre-scramble technique (which is widely used in fewest-move challenge) to find more phase1 solutions.
+
