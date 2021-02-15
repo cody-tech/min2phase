@@ -86,7 +86,7 @@ public class demo {
          */
         String scrambledCube = "DUUBULDBFRBFRRULLLBRDFFFBLURDBFDFDRFRULBLUFDURRBLBDUDL";
         // scrambledCube can also be obtained by specific moves
-        scrambledCube = Tools.fromScramble("R L2 D R F U2 F' L F' B2 D' R2 B2 R2 L2 U F2 L2 B2 U2 R2");
+        //scrambledCube = Tools.fromScramble("R L2 D R F U2 F' L F' B2 D' R2 B2 R2 L2 U F2 L2 B2 U2 R2");
         System.out.println(scrambledCube);
 
         simpleSolve(scrambledCube);
